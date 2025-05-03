@@ -67,7 +67,7 @@ Each video file follows the naming pattern: `aa-bb-cc-dd.mp4`
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/javanese-video-emotion-recognition.git
+git clone https://github.com/2black0/Video-Emotion-Recognition-for-Javanese-Dataset.git
 cd javanese-video-emotion-recognition
 ```
 
